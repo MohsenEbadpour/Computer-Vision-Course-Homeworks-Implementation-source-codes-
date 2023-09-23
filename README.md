@@ -7,7 +7,7 @@ Welcome to my Computer Vision (CV) course homework repository! This repository c
 
 1. [Overview](#overview)
 2. [Course Structure](#course-structure)
-3. [Homework Assignments (Projects)](#homework-assignments-(projects))
+3. [Homework Assignments (Projects)](#homework-assignments)
 6. [How to Use](#how-to-use)
 7. [Contributing](#contributing)
 8. [License](#license)
@@ -31,7 +31,7 @@ The Computer Vision course comprised the following components:
 - **Examinations**: The course included only a final exam to assess my theoretical understanding of the subject.
 ---
 
-## Homework Assignments (Projects)
+## Homework Assignments
 
 Each homework assignment is organized in its dedicated folder within this repository. Below, you'll find a brief description of each assignment along with the link to its respective folder.
 
