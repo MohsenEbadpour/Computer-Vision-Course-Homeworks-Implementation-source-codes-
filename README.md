@@ -7,7 +7,7 @@ Welcome to my Computer Vision (CV) course homework repository! This repository c
 
 1. [Overview](#overview)
 2. [Course Structure](#course-structure)
-3. [Homework Assignments (Projects)](#homework-assignments)
+3. [Homework Assignments](#homework-assignments)
 6. [How to Use](#how-to-use)
 7. [Contributing](#contributing)
 8. [License](#license)
