@@ -66,20 +66,20 @@ Each homework assignment is organized in its dedicated folder within this reposi
 > Scale-Invariant Feature Transform(SIFT), Homography, Affine Transformation, Perspective, Feature Matching, FREAK Descriptor
 
 ### Project 6
-- **Description**: [Read Homework 5 Description](HW6)
-- **Implementation**: [Link to Homework 5 Code](HW6)
+- **Description**: [Read Homework 6 Description](HW6)
+- **Implementation**: [Link to Homework 6 Code](HW6)
 - **Covered Topics**:
 > Local Binary Pattern (LBP), Object Detection in CS Game, IoU Computation, HoG Feature, Bounding-Box Regressor, Non Maximum Suppression
 
 ### Project 7
-- **Description**: [Read Homework 5 Description](HW7)
-- **Implementation**: [Link to Homework 5 Code](HW7)
+- **Description**: [Read Homework 7 Description](HW7)
+- **Implementation**: [Link to Homework 7 Code](HW7)
 - **Covered Topics**:
 > Depth Estimation, 3D Reconstruction, LiDAR Data, Point Cloud Registration to RGB Image, Depth Interpolation
 
 ### Project 8
-- **Description**: [Read Homework 5 Description](HW8)
-- **Implementation**: [Link to Homework 5 Code](HW8)
+- **Description**: [Read Homework 8 Description](HW8)
+- **Implementation**: [Link to Homework 8 Code](HW8)
 - **Covered Topics**:
 > Optical Flow, Object Tracking, Shi-Tomas algorithm, Lukas-Kanade algorithm, Object Translation in Video Frames, Gunner-Farneback Algorithm
 
