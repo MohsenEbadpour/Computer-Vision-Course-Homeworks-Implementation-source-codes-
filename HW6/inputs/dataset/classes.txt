@@ -1,0 +1,4 @@
+C
+dead
+T
+weapon
